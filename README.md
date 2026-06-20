@@ -403,12 +403,6 @@ This project demonstrates:
 
 ---
 
-## 📄 License
-
-This project is intended for educational and portfolio purposes.
-
----
-
 ## 👨‍💻 Author
 
 **Subhansu Pradhan**
